@@ -10,4 +10,5 @@ Sponsored by Lightning Studio
 
 Create by Naily Zero
 
+<img src="../lightning.png" width="35" />
 </div>
